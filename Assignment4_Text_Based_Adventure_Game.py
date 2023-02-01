@@ -1,7 +1,3 @@
-# Note for Abayomi
-# The issue I am trying to fix is that when an invalid response is entered, the loop resets from the start. I am trying to add a condition so that after entering an invalid input, the position within the game is maintained until a valid input is entered. 
-
-
 # Text-Based Python adventure game
 
 # The game has a simple design built around nested if/elif/else conditions.
